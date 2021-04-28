@@ -1,11 +1,11 @@
 # News_Classfication
 
-##介绍
+## 介绍
 毕业设计，基于卷积神经网络的新闻分类，包含TextCNN、LSTM、BiLSTM+Attention、fasttext
 
 P.S:代码写的比较乱，数据集与词向量均来自互联网，有侵权问题可以联系我
 
-##基本环境
+## 基本环境
 |名称|版本|
 |----|----|
 |Python|3.6.6|
@@ -15,7 +15,7 @@ P.S:代码写的比较乱，数据集与词向量均来自互联网，有侵权�
 |Seaborn|0.11.0|
 
 
-##使用
+## 使用
 ```
 # 训练
 # python run.py [-h] [-t TIMES] {TextCNN,LSTM,fasttext,BiLSTM_Attention}
